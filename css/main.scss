@@ -34,11 +34,20 @@
   color: white;
 }
 
+.bandeau {
+  background-image: linear-gradient(0deg, rgba(10, 10, 10, 0.2), rgba(10, 10, 10, 0.2)),url("{{ site.baseurl }}/assets/images/transport_minibus.jpeg");
+  background-size: cover;
+  height: 25vh;
+  background-repeat: no-repeat;
+  background-position: center;
+  color: white;
+}
+
 .cover {
   object-fit: cover;
 }
 
-.footer {
+footer {
   background-color: #649FA0;
   color: white;
 }
