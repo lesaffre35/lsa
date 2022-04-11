@@ -65,11 +65,31 @@ footer {
 
 .gradient-custom {
   /* fallback for old browsers */
-  background: #f6d365;
+  // background: #f6d365;
 
   /* Chrome 10-25, Safari 5.1-6 */
   background: -webkit-linear-gradient(to right, rgba(148, 234, 236, 1), rgba(100,159,160, 1));
 
   /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
   background: linear-gradient(to right, rgba(148, 234, 236, 1),rgba(100, 159, 160, 1))
+}
+
+.custom-button {
+  display: inline-block;
+  padding: 8px 8px;
+  // width: 200px;
+  background: rgb(100, 159, 160);
+    // background: -webkit-linear-gradient(to right, rgba(148, 234, 236, 1), rgba(100, 159, 160, 1));
+  color: #fff;
+  text-align: center;
+  // text-shadow: 1px 1px 0 #000;
+  border-radius: 5px;
+  text-decoration: none;
+}
+
+.custom-button:hover {
+  background-color: white;
+  color: rgb(100, 159, 160);
+  transition: 0.40s;
+  border: 2px solid rgb(100, 159, 160);
 }

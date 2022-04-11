@@ -18,7 +18,7 @@ Les avantages du transport en autocar pour vos salariés
 Notre équipe de chauffeurs à Montfort et sarégion est à votre disposition et assure une prestation de qualité en toute
 sécurité!
 
-Faites confiance au Lesaffre Service Assistance pour le transport de vos salariés, nous sommes rigoureux, ponctuels et qualifiés.
+Faites confiance à Lesaffre Service Assistance pour le transport de vos salariés, nous sommes rigoureux, ponctuels et qualifiés.
 
 Notre objectif premier ? Contribuer à maintenir un niveau d’expérience positive pour chaque passager lors de chaque
 trajet via notre flotte de véhicules.
