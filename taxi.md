@@ -1,5 +1,5 @@
 ---
-title: taxi
+title: Service
 layout: article
 permalink: /taxi/
 ---
@@ -13,7 +13,7 @@ Vous recherchez une solution performante pour vos salariés afin de leur permett
 Nous mettons à votre disposition un ou plusieurs véhicules et définissons ensemble, un itinéraire unique ou plusieurs
 points géographiques, afin d'être au plus près de vos besoins en terme de trajet. (aller/retour)
 
-Les avantages du transport en autocar pour vos salariés
+Les avantages du transport en mini-bus pour vos salariés
 
 Notre équipe de chauffeurs à Montfort et sarégion est à votre disposition et assure une prestation de qualité en toute
 sécurité!
