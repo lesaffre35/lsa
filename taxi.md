@@ -1,7 +1,7 @@
 ---
 title: Taxi
 layout: article
-permalink: /taxi/
+permalink: /taxi
 picture: "taxi3.jpg"
 ---
 

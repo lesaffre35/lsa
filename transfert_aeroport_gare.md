@@ -1,7 +1,7 @@
 ---
 title: Transfert Gares et Aéroports
 layout: article
-permalink: /transfert/
+permalink: /transfert
 picture: "transport_aeroport.jpg"
 ---
 

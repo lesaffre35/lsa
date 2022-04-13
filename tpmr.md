@@ -1,7 +1,7 @@
 ---
 title: Transport de personnes à mobilités réduites
 layout: article
-permalink: /tpmr/
+permalink: /tpmr
 picture: "taxi5.jpg"
 ---
 

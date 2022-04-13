@@ -1,7 +1,7 @@
 ---
 title: Transport de salariés
 layout: article
-permalink: /entreprise/
+permalink: /entreprise
 picture: "mercedes-sprinter.jpg"
 ---
 # Transport de salariés pour votre entreprise à Rennes
