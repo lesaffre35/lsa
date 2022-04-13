@@ -22,6 +22,8 @@
 
 @import 'bootstrap/bootstrap';
 
+// div {border: 1px red solid;}
+
 .jumbotron {
   background-image: linear-gradient(0deg, rgba(10, 10, 10, 0.2), rgba(10, 10, 10, 0.2)), url("{{ site.baseurl }}/assets/images/hometest2.png");
   background-size: cover;
