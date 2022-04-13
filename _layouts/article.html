@@ -19,12 +19,14 @@
   <div class="container">
     <div class="row d-flex p-5">
       <div class="col-4">
-        <img class="img-fluid shadow-lg rounded" alt="Responsive image" src="{{ site.baseurl }}/assets/images/mercedes-sprinter.jpg" alt="">
+        <img class="img-fluid shadow-lg rounded" alt="Responsive image" src="{{ site.baseurl }}/assets/images/{{ page.picture }}" alt="">
       </div>
       <div class="col-8">
         {{ content }}
         <div class="text-center">
-          <div class="btn btn-primary m-5">DEMANDEZ UN DEVIS</div>
+          <a href="{{ site.baseurl }}/contact/">
+            <div class="btn btn-primary m-5">DEMANDEZ UN DEVIS</div>
+          </a>
         </div>
 
       </div>

@@ -10,9 +10,23 @@
       <li class="px-3 nav-item active">
         <a class="nav-link fs-5" href="{{ site.baseurl }}/" style="color:white">Accueil <span class="sr-only"></span></a>
       </li>
-      <li class="px-3 nav-item">
+      <!-- <li class="px-3 nav-item">
         <a class="nav-link fs-5" href="{{ site.baseurl }}/taxi/" style="color:white">Nos Services</a>
+      </li> -->
+
+      <li class="nav-item dropdown fs-5">
+        <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-bs-toggle="dropdown"
+          aria-expanded="false" style="color:white">
+          Nos Services
+        </a>
+        <ul class="dropdown-menu" aria-labelledby="navbarDropdown">
+          <li><a class="dropdown-item" href="{{ site.baseurl }}/taxi/">Taxis</a></li>
+          <li><a class="dropdown-item" href="{{ site.baseurl }}/tpmr/">Transport Personne à Mobilité Réduite</a></li>
+          <li><a class="dropdown-item" href="{{ site.baseurl }}/transfert/">Transfert Gare/Aéroport</a></li>
+          <li><a class="dropdown-item" href="{{ site.baseurl }}/entreprise/">Transport de salariés</a></li>
+        </ul>
       </li>
+
       <li class="px-3 nav-item">
         <a class="nav-link fs-5" href="#" style="color:white">Actualités</a>
       </li>
