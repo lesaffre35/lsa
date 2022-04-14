@@ -6,3 +6,8 @@ title: "" # the name of your site, e.g. ACME Corp.
 # permalink: :title/
 sass:
   sass_dir: css
+
+plugins:
+  - jekyll-feed
+  - jekyll-sitemap
+  - jekyll-seo-tag
