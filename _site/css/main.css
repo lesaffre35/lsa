@@ -8442,3 +8442,6 @@ footer {
   color: #649fa0;
   transition: 0.40s;
   border: 2px solid #649fa0; }
+
+a {
+  text-decoration: none; }
