@@ -1,13 +1,13 @@
 ---
-title: Transport de personnes à mobilités réduites
+title: Transport de Personnes à Mobilités Réduites
 layout: article
 permalink: /tpmr
 picture: "taxi5.jpg"
 ---
 
-## Taxis agrées
+## Taxi pour personne à mobilité réduite
 
-Nos taxis agréés sont spécialement conçus pour accepter les clients ayant des besoins particuliers, notamment les personnes en fauteuil roulant et celles ayant des difficultés à se déplacer. Nos chauffeurs sont prêts à vous apporter toute l'aide dont vous avez besoin.
+Nos taxis conventionnés sont spécialement conçus pour accepter les clients ayant des besoins particuliers, notamment les personnes en fauteuil roulant et celles ayant des difficultés à se déplacer. Nos chauffeurs sont prêts à vous apporter toute l'aide dont vous avez besoin.
 
 ## Accessibilité aux fauteuils roulants
 
