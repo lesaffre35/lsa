@@ -25,7 +25,6 @@
 // div {border: 1px red solid;}
 
 .jumbotron {
-  background-image: linear-gradient(0deg, rgba(10, 10, 10, 0.2), rgba(10, 10, 10, 0.2)), url("{{ site.baseurl }}/assets/images/homepage3.png");
   background-size: cover;
   // height: 700px;11
   width: 100%;
@@ -34,10 +33,66 @@
   background-repeat: no-repeat;
   background-position: center;
   color: white;
+  background-image: url("{{ site.baseurl }}/assets/images/mobile.png");
+}
+
+// @include media-breakpoint-up(sm) {
+//     .jumbotron {
+//       background-image: url("{{ site.baseurl }}/assets/images/mobile.png");
+//     }
+//   }
+
+// @media (max-width: 480px) {
+
+// // @media (min-width: 481px) and (max-width: 1024px) {
+// //   // body {
+// //   //   background-image: url(images/background-tablet.jpg);
+// //   // }
+// // }
+
+// @media ((min-width: 1025px)) {
+//   .jumbotron {
+//     background-image: linear-gradient(0deg, rgba(10, 10, 10, 0.2), rgba(10, 10, 10, 0.2)), url("{{ site.baseurl }}/assets/images/homepage3.png");
+//   }
+// }
+
+// Extra small devices (portrait phones, less than 576px)
+// No media query since this is the default in Bootstrap
+
+// Small devices (landscape phones, 576px and up)
+@media (min-width: 576px) {
+  .jumbotron {
+            background-image: url("{{ site.baseurl }}/assets/images/mobile.png");
+            // background-color: red;
+          }
+}
+
+// Medium devices (tablets, 768px and up)
+@media (min-width: 768px) {
+  .jumbotron {
+          background-image: linear-gradient(0deg, rgba(10, 10, 10, 0.2), rgba(10, 10, 10, 0.2)), url("{{ site.baseurl }}/assets/images/mobile.png");
+// background-color: blue;
+        }
+}
+
+// Large devices (desktops, 992px and up)
+@media (min-width: 992px) {
+  .jumbotron {
+      background-image: linear-gradient(0deg, rgba(10, 10, 10, 0.2), rgba(10, 10, 10, 0.2)), url("{{ site.baseurl }}/assets/images/homepage3.png");
+        // background-color: green;
+      }
+}
+
+// Extra large devices (large desktops, 1200px and up)
+@media (min-width: 1200px) {
+  .jumbotron {
+      background-image: linear-gradient(0deg, rgba(10, 10, 10, 0.2), rgba(10, 10, 10, 0.2)), url("{{ site.baseurl }}/assets/images/homepage3.png");
+        // background-color: yellow;
+    }
 }
 
 .bandeau {
-  background-image: linear-gradient(0deg, rgba(10, 10, 10, 0.5), rgba(10, 10, 10, 0.5)),url("{{ site.baseurl }}/assets/images/transport_minibus.jpeg");
+  background-image: linear-gradient(0deg, rgba(10, 10, 10, 0.5), rgba(10, 10, 10, 0.5)), url("{{ site.baseurl }}/assets/images/transport_minibus.jpeg");
   background-size: cover;
   height: 30vh;
   background-repeat: no-repeat;
@@ -100,6 +155,4 @@ a {
   text-decoration: none;
 }
 
-ul {
-  list-style-type: none;
-}
+ul {list-style-type: none;}
