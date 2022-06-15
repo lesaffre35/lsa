@@ -1,6 +1,4 @@
----
----
-// {
+--- --- // {
 //   $backgroundColor: #000000;
 //   $bodyColor: #000000;
 //   $bodyFont: -apple-system,
@@ -62,37 +60,38 @@
 // Small devices (landscape phones, 576px and up)
 @media (min-width: 576px) {
   .jumbotron {
-            background-image: url("{{ site.baseurl }}/assets/images/mobile.png");
-            // background-color: red;
-          }
+    background-image: url("{{ site.baseurl }}/assets/images/mobile.png");
+    // background-color: red;
+  }
 }
 
 // Medium devices (tablets, 768px and up)
 @media (min-width: 768px) {
   .jumbotron {
-          background-image: url("{{ site.baseurl }}/assets/images/homepage4.png");
-// background-color: blue;
-        }
+    background-image: url("{{ site.baseurl }}/assets/images/homepage4.png");
+    // background-color: blue;
+  }
 }
 
 // Large devices (desktops, 992px and up)
 @media (min-width: 992px) {
   .jumbotron {
-      background-image: url("{{ site.baseurl }}/assets/images/homepage4.png");
-        // background-color: green;
-      }
+    background-image: url("{{ site.baseurl }}/assets/images/homepage4.png");
+    // background-color: green;
+  }
 }
 
 // Extra large devices (large desktops, 1200px and up)
 @media (min-width: 1200px) {
   .jumbotron {
-      background-image: url("{{ site.baseurl }}/assets/images/homepage4.png");
-        // background-color: yellow;
-    }
+    background-image: url("{{ site.baseurl }}/assets/images/homepage4.png");
+    // background-color: yellow;
+  }
 }
 
 .bandeau {
-  background-image: linear-gradient(0deg, rgba(10, 10, 10, 0.5), rgba(10, 10, 10, 0.5)), url("{{ site.baseurl }}/assets/images/transport_minibus.jpeg");
+  background-image: linear-gradient(0deg, rgba(10, 10, 10, 0.5), rgba(10, 10, 10, 0.5)),
+  url("{{ site.baseurl }}/assets/images/transport_minibus.jpeg");
   background-size: cover;
   height: 30vh;
   background-repeat: no-repeat;
@@ -125,10 +124,10 @@ footer {
   // background: #f6d365;
 
   /* Chrome 10-25, Safari 5.1-6 */
-  background: -webkit-linear-gradient(to right, rgba(148, 234, 236, 1), rgba(100,159,160, 1));
+  background: -webkit-linear-gradient(to right, rgba(148, 234, 236, 1), rgba(100, 159, 160, 1));
 
   /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
-  background: linear-gradient(to right, rgba(148, 234, 236, 1),rgba(100, 159, 160, 1))
+  background: linear-gradient(to right, rgba(148, 234, 236, 1), rgba(100, 159, 160, 1))
 }
 
 .custom-button {
@@ -136,7 +135,7 @@ footer {
   padding: 8px 8px;
   // width: 200px;
   background: rgb(100, 159, 160);
-    // background: -webkit-linear-gradient(to right, rgba(148, 234, 236, 1), rgba(100, 159, 160, 1));
+  // background: -webkit-linear-gradient(to right, rgba(148, 234, 236, 1), rgba(100, 159, 160, 1));
   color: #fff;
   text-align: center;
   // text-shadow: 1px 1px 0 #000;
@@ -155,4 +154,6 @@ a {
   text-decoration: none;
 }
 
-ul {list-style-type: none;}
+ul {
+  list-style-type: none;
+}
