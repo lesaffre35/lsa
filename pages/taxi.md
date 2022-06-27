@@ -1,18 +1,15 @@
 ---
-title: Taxi
+title: Taxi - Transport occasionnel
 layout: article
 permalink: /taxi
-picture: "taxi3.jpg"
+picture: "taxi_monterfil.jpg"
 ---
 
-### Lesaffre service Assistance vous propose un service haut de gamme et entièrement sur-mesure.
+## LSA Transports vous propose un service de réservation de taxis et minibus pour répondre à votre mobilité. ##
 
-Planifiez idéalement votre course à l’avance. Et choisissez parmi nos gammes de véhicules (berline éco, confort ou Van) le moyen de transport qui vous est le plus adapté.
+Implantés à Montfort/Meu, Monterfil et Iffendic, nous assurons vous déplacements par taxis (tarifs réglementés) de 1 à 8 passagers. Professionnels ou particuliers, transports de groupes, réservez votre véhicule avec chauffeur.
 
-Faites confiance à Lesaffre Service Assistance, nous sommes rigoureux, professionnels et qualifiés.
 
-Notre objectif premier ? Contribuer à maintenir un niveau d’expérience positive pour chaque passager lors de chaque
-trajet via notre flotte de véhicules.
 
 *Nous sommes enregistré au registre des VTC sous le numéo EVTC035220005*
 

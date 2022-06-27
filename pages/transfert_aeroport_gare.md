@@ -5,12 +5,10 @@ permalink: /transfert
 picture: "transport_aeroport.jpg"
 ---
 
-Nous pouvons vous emmener depuis et vers n'importe quel aéroports et gares, dont les aéroports de Rennes, Dinard, Nantes, Quimper, Saint-Nazaire.
+LSA Transport vous propose un service de navette dédié au départ ou à l’arrivée des aéroports de la région. Transferts possibles vers les aéroports de Rennes, Nantes, Dinard, Paris. Jusqu’à 8 passagers avec bagages.
 
-Notre service comprend également les transferts depuis et vers les ports maritimes, notamment Saint-Malo, Lorient, Saint-Brieuc, Concarneau, Roscoff
+Professionnels, particuliers, agences de voyages, nous mettons à votre disposition une flotte de véhicules jusqu’à 8 passagers, spacieux et équipés pour votre confort et votre sécurité. Accueil personnalisé en gare ou aéroport avec vos bagages, sièges enfants sur demande. Transferts toutes distances vers votre destination (Evénement, résidence de vacances, séminaires, hôtels…
 
-Nous vérifions continuellement les détails de votre arrivée et calculons votre heure d'arrivée exacte. Votre chauffeur vous attendra dans la zone des arrivées, votre nom étant clairement inscrit sur un panneau.
+Réservation à l’avance recommandée (Transfert aller-retour possible)
 
-Nous vous communiquons le nom de votre chauffeur et le numéro d'immatriculation du véhicule, afin que vous sachiez que vous êtes pris en charge par le bon taxi et le bon chauffeur.  Nous restons en communication constante avec notre chauffeur pour nous assurer que vous êtes accueilli rapidement et en toute sécurité.
-
-Nous pouvons vous emmener partout au France. Nos taxis Mercedes Vito 6 places sont parfaits pour les longs trajets, avec une conduite vraiment confortable, un environnement entièrement climatisé et deux prises de courant 12V.
+*Nous sommes enregistré au registre des VTC sous le numéo EVTC035220005*
