@@ -2,6 +2,7 @@
 title: Transport de salariés
 layout: article
 permalink: /entreprise
+bandeau: transport_minibus.jpeg
 picture: "mercedes-sprinter.jpg"
 ---
 # Transport de salariés pour votre entreprise à Rennes

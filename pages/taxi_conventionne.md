@@ -2,6 +2,7 @@
 title: Taxi Conventionné
 layout: article
 permalink: /taxi_conventionne
+bandeau: taxi_conventionné_rennes.jpg
 picture: "taxi_scenic.jpg"
 ---
 

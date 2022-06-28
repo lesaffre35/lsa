@@ -2,8 +2,8 @@
 title: Evènement et Tourisme
 layout: article
 permalink: /evenement
-picture: "dinard.jpg"
-bandeau: "transport_minibus.jpeg"
+picture: dinard.jpg
+bandeau: dinard.jpg
 ---
 Nous disposons d’une flotte de minibus pouvant accueillir jusqu’à 8 passagers pour des déplacements occasionnels ou évènementiels, visites touristiques, déplacements sportifs et collectivités, évènements professionnels, mariages…
 

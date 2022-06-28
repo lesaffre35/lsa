@@ -91,15 +91,15 @@
   }
 }
 
-.bandeau {
-  background-image: linear-gradient(0deg, rgba(10, 10, 10, 0.5), rgba(10, 10, 10, 0.5)),
-  url("{{ site.baseurl }}/assets/images/transport_minibus.jpeg");
-  background-size: cover;
-  height: 30vh;
-  background-repeat: no-repeat;
-  background-position: center;
-  color: white;
-}
+// .bandeau {
+//   background-image: linear-gradient(0deg, rgba(10, 10, 10, 0.5), rgba(10, 10, 10, 0.5)),
+//   url("{{ site.baseurl }}/assets/images/transport_minibus.jpeg");
+//   background-size: cover;
+//   height: 30vh;
+//   background-repeat: no-repeat;
+//   background-position: center;
+//   color: white;
+// }
 
 .cover {
   object-fit: cover;

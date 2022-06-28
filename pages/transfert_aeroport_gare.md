@@ -2,6 +2,7 @@
 title: Transfert Gares et Aéroports
 layout: article
 permalink: /transfert
+bandeau: rennes_aeroport2.jpg
 picture: "transport_aeroport.jpg"
 ---
 

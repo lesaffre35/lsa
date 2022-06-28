@@ -2,6 +2,7 @@
 title: Transport de Personnes à Mobilités Réduites
 layout: article
 permalink: /tpmr
+bandeau: tpmr.jpg
 picture: "taxi5.jpg"
 ---
 
