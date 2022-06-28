@@ -12,7 +12,7 @@ Nos taxis conventionnés sont spécialement conçus pour accepter les clients ay
 
 ## Accessibilité aux fauteuils roulants
 
-Ns véhicules sont équipés d'une rampe d'accès sûre et pratique pour les fauteuils roulants.  Les taxis ont également une ouverture de porte haute, ce qui est un réel avantage pour tous les passagers, en particulier pour les personnes en fauteuil roulant.
+Nos véhicules sont équipés d'une rampe d'accès sûre et pratique pour les fauteuils roulants.  Les taxis ont également une ouverture de porte haute, ce qui est un réel avantage pour tous les passagers, en particulier pour les personnes en fauteuil roulant.
 
 <!-- Cela réduit la nécessité de se baisser en entrant dans le taxi et réduit l'inconfort dans le cas des utilisateurs de fauteuils roulants. -->
 

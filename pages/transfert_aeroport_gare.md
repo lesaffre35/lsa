@@ -1,5 +1,5 @@
 ---
-title: Transfert Gares et Aéroports
+title: Navette Aéroport
 layout: article
 permalink: /transfert
 bandeau: rennes_aeroport2.jpg

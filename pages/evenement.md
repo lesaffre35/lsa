@@ -1,5 +1,5 @@
 ---
-title: Evènement et Tourisme
+title: Evènement et Transport de groupe
 layout: article
 permalink: /evenement
 picture: dinard.jpg
