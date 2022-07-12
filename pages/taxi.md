@@ -1,5 +1,5 @@
 ---
-title: Taxi - Transport occasionnel
+title: Taxi - Transports occasionnels
 layout: article
 permalink: /taxi
 bandeau: vue_chauffeur.webp

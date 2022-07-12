@@ -8,7 +8,9 @@ picture: "taxi5.jpg"
 
 ## Taxi pour Personne à Mobilité Réduite
 
-Nos taxis conventionnés sont spécialement conçus pour accepter les clients ayant des besoins particuliers, notamment les personnes en fauteuil roulant et celles ayant des difficultés à se déplacer. Nos chauffeurs sont prêts à vous apporter toute l'aide dont vous avez besoin.
+Nous disposons de véhicules spécialement équipés pour les déplacements de personnes à
+mobilité réduite (véhicules TPMR). Nos chauffeurs, formés, sauront vous apporter toute
+l’aide dont vous avez besoin.
 
 ## Accessibilité aux fauteuils roulants
 
