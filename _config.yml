@@ -1,6 +1,10 @@
 url: "https://www.lsa-transports.com" # the base hostname & protocol for your site, e.g. http://example.com
 baseurl: "/lsa" # the subpath of your site, e.g. /blog
-title: "Lesaffre Service Assistance" # the name of your site, e.g. ACME Corp.
+title: Lesaffre Service Assistance | Taxi Montfort sur Meu, Yffendic, Monterfil
+# title: "Lesaffre Service Assistance" # the name of your site, e.g. ACME Corp.
+tagline: "Lesaffre Service Assistance | Taxi TPMR et Services pour Entreprises et scolaires"
+description: "Lesaffre Service Assistance met à votre disposition des véhicules spacieux breaks, mini-car, mini-bus, pour transporter de 1 à 20 personnes"
+logo: /assets/images/logoLSA.png
 
 # Build settings
 # permalink: :title/
@@ -13,8 +17,3 @@ plugins:
   - jekyll-feed
   - jekyll-sitemap
   - jekyll-seo-tag
-
-title: Lesaffre Service Assistance | Taxi Montfort sur Meu, Yffendic, Monterfil
-tagline: "Lesaffre Service Assistance | Taxi TPMR et Services pour Entreprises et scolaires"
-description: "Lesaffre Service Assistance met à votre disposition des véhicules spacieux breaks, mini-car, mini-bus, pour transporter de 1 à 20 personnes"
-logo: /assets/images/logoLSA.png
