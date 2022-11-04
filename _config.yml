@@ -1,5 +1,6 @@
 url: "https://www.lsa-transports.com" # the base hostname & protocol for your site, e.g. http://example.com
-baseurl: "/lsa" # the subpath of your site, e.g. /blog
+# baseurl: "/lsa" # the subpath of your site, e.g. /blog
+baseurl: "" # the subpath of your site, e.g. /blog
 title: "Lesaffre Service Assistance" # the name of your site, e.g. ACME Corp.
 
 # Build settings
