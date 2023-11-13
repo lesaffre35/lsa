@@ -1,5 +1,5 @@
 ---
-title: Transport en mini-car
+title: Transport en minicar
 layout: article
 permalink: /mini_car
 picture: "Minicar.jpg"
@@ -8,7 +8,7 @@ picture3: "mini_car_3.jpg"
 bandeau: "mini_car_5.png"
 ---
 
-### Transport en Mini-car
+### Transport en minicar
 
 Pour votre prochain voyage avec notre société LSA Transports, nous vous proposons la location de notre minicar Mercedes Sprinter Spica avec chauffeur.
 
@@ -19,6 +19,6 @@ Autres équipements : 2 salons ou 19 places + siège guide, vidéo, Wifi, réfri
 Grandes soutes à bagages et suspensions pneumatiques pour un confort optimal
 
 
-*Nous sommes enregistré au registre des VTC sous le numéo EVTC035220005*
+<!-- *Nous sommes enregistré au registre des VTC sous le numéo EVTC035220005* -->
 
 
