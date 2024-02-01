@@ -14,8 +14,9 @@ TPMR)
 Nos véhicules récents font l’objet d’un suivi permanent pour votre confort et votre sécurité.
 
 Réglementation et législation :
-- Assurance Flotte AXA et responsabilité civile et professionnelle n°10797121904
 - Licence de transport intérieur de personnes n° 2021/53/000216
+- Licence communautaire n°2023/53/0000476
 - Licence VTC n° EVTC035220005
 - Autorisation de stationnent (ADS) taxis : Montfort/Meu – Monterfil - Iffendic
+- Assurance Flotte AXA et responsabilité civile et professionnelle n°10797121904
 

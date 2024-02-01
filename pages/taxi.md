@@ -19,6 +19,3 @@ Nous sommes également réactifs et adaptables. Nous comprenons que les besoins 
 En choisissant LESAFFRE SERVICE ASSISTANCE, vous pouvez être assuré que vous bénéficierez d'un service de qualité, d'une écoute attentive, d'une expérience solide, d'une réactivité et d'une adaptation aux besoins de chaque client. Nous sommes là pour vous accompagner dans tous vos déplacements à Montfort-sur-Meu et ses alentours. N'hésitez pas à nous contacter pour toute demande de renseignement ou réservation.
 
 
-*Nous sommes enregistré au registre des VTC sous le numéo EVTC035220005*
-
-

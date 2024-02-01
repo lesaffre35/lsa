@@ -5,8 +5,9 @@ permalink: /evenement
 picture: dinard.jpg
 bandeau: dinard.jpg
 ---
-Nous disposons d’une flotte de minibus pouvant accueillir jusqu’à 8 passagers pour des déplacements occasionnels ou évènementiels, visites touristiques, déplacements sportifs et collectivités, évènements professionnels, mariages…
 
-Nous mettons à votre disposition un service de navette dédié, un interlocuteur unique pour l’organisation de vos déplacements par une équipe professionnelle et qualifiée.
+Equipés de minivans 8 places et minicars Mercedes Sprinter 16 places, nous sommes à votre disposition pour tous déplacements occasionnels ou évènementiels, visites touristiques, déplacements sportifs et collectivités, évènements professionnels, mariages…
+
+Notre équipe dédiée saura étudier votre projet et déterminer les moyens nécessaires pour répondre à vos besoins. Nos chauffeurs professionnels sauront vous conduire ou conduire vos invités dans les meilleurs conditions de confort, de sécurité et de discrétion.
 
 
