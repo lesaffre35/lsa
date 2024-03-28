@@ -1,10 +1,6 @@
 url: "https://www.lsa-transports.com" # the base hostname & protocol for your site, e.g. http://example.com
-# baseurl: "/lsa" # the subpath of your site, e.g. /blog
 baseurl: "" # the subpath of your site, e.g. /blog
-# title: "Lesaffre Service Assistance" # the name of your site, e.g. ACME Corp.
 
-# Build settings
-# permalink: :title/
 sass:
   sass_dir: css
 
@@ -12,7 +8,6 @@ markdown: kramdown
 
 
 title: "Lesaffre Service Assistance | Taxi | TPMR | Minicar | Minibus"
-# tagline: "Lesaffre Service Assistance | Taxi TPMR et Services pour Entreprises et scolaires"
 description: "Situés à Montfort/Meu, Monterfil et Iffendic, nous assurons vous déplacements de 1 à 20 passagers. Professionnels ou particuliers, transports de groupes."
 logo: /assets/images/logoLSA.png
 locale: "Fr"

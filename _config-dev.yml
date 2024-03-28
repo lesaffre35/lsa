@@ -12,7 +12,7 @@ markdown: kramdown
 
 
 title: "Lesaffre Service Assistance | Taxi Montfort sur Meu, Iffendic, Monterfil"
-tagline: "Lesaffre Service Assistance | Taxi TPMR et Services pour Entreprises et scolaires"
+# tagline: "Lesaffre Service Assistance | Taxi TPMR et Services pour Entreprises et scolaires"
 description: "Lesaffre Service Assistance met à votre disposition des véhicules spacieux breaks, minicar, mini-bus, pour transporter de 1 à 20 personnes?"
 logo: /assets/images/logoLSA.png
 locale: "Fr"
