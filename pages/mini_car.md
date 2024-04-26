@@ -12,7 +12,7 @@ bandeau: "mini_car_5.png"
 
 Pour votre prochain voyage avec notre société LSA Transports, nous vous proposons la location de notre minicar Mercedes Sprinter Spica avec chauffeur.
 
-Véhicules idéales pour vos déplacements touristiques, professionnels, événementiels ou sportifs. Disponible pour de simple transferts ou de mises à disposition à la journée et en circuit sur plusieurs jours.
+Véhicule idéal pour vos déplacements touristiques, professionnels, événementiels ou sportifs. Disponible pour de simple transferts ou de mises à disposition à la journée et en circuit sur plusieurs jours.
 
 Nos chauffeurs de très bonne présentation, parlent anglais et ont une bonne connaissance de la région.
 
