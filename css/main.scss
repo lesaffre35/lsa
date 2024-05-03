@@ -70,7 +70,7 @@
 // Medium devices (tablets, 768px and up)
 @media (min-width: 768px) {
   .jumbotron {
-    background-image: url("{{ absolute_url }}/assets/images/homepage6.png");
+    background-image: url("{{ absolute_url }}/assets/images/header.png");
     // background-color: blue;
   }
 }
@@ -78,7 +78,7 @@
 // Large devices (desktops, 992px and up)
 @media (min-width: 992px) {
   .jumbotron {
-    background-image: url("{{ absolute_url }}/assets/images/homepage6.png");
+    background-image: url("{{ absolute_url }}/assets/images/header.png");
     // background-color: green;
   }
 }
@@ -86,7 +86,7 @@
 // Extra large devices (large desktops, 1200px and up)
 @media (min-width: 1200px) {
   .jumbotron {
-    background-image: url("{{ absolute_url }}/assets/images/homepage6.png");
+    background-image: url("{{ absolute_url }}/assets/images/header.png");
     // background-color: yellow;
   }
 }
