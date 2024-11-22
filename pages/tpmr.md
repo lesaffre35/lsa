@@ -8,13 +8,12 @@ picture: "taxi5.jpg"
 
 ## Taxi pour Personne à Mobilité Réduite
 
-Chez LSA TRansports LESAFFRE SERVICE ASSISTANCE, nous comprenons que les déplacements peuvent être difficiles pour les personnes à mobilité réduite. C'est pourquoi nous avons mis en place un service de transport adapté pour répondre à tous vos besoins en matière de mobilité.
+Chez LSA Transports LESAFFRE SERVICE ASSISTANCE, nous comprenons que les déplacements peuvent être difficiles pour les personnes à mobilité réduite. C'est pourquoi nous avons mis en place un service de transport adapté pour répondre à tous vos besoins en matière de mobilité.
 
 
 ## **Transport de Personnes à Mobilité Réduite (TPMR)**  
-### **Taxi adapté pour fauteuils roulants manuels et électriques**
 
-### **Un service de transport sécurisé et confortable**
+### **Un service de Taxi adapté pour fauteuils roulants manuels et électriques sécurisé et confortable**
 
 Notre service de taxi TPMR est spécialement conçu pour répondre aux besoins des personnes à mobilité réduite. Que vous utilisiez un fauteuil roulant manuel ou électrique, nous vous garantissons un transport sûr, confortable et adapté à vos besoins spécifiques au départ de Montfort sur Meu et communes environnantes. Nous mettons à votre disposition des véhicules équipés de rampes d'accès pour fauteuils roulants, avec un personnel qualifié pour vous accompagner à chaque étape de votre trajet.  
 
