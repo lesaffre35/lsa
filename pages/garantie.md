@@ -6,7 +6,7 @@ bandeau: vue_chauffeur.webp
 picture: "taxi_monterfil.jpg"
 ---
 
-### **Garanties de Service de Qualité et Respect dela réglementation**
+### **Garanties de Service de Qualité et Respect de la réglementation**
 
 **Un Transport Fiable et Sécurisé : Nos Engagements**  
 Notre entreprise de transport est pleinement engagée à offrir un service de qualité, respectant toutes les obligations légales en matière de transport de personnes. Nous mettons un point d'honneur à garantir la sécurité, le confort et la satisfaction de nos passagers tout en respectant les normes en vigueur. Voici nos engagements et garanties pour un service irréprochable.
