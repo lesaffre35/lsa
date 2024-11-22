@@ -27,13 +27,13 @@ Nous proposons des transferts aéroport à la demande et sur réservation dans t
 **Pourquoi Choisir Nos Navettes Aéroport ?**  
 - **Flotte Moderne et Confortable** : Nous disposons d’une flotte de minivans, minibus 8 places et minicars Mercedes Sprinter 16 places, offrant un confort optimal pour les passagers et garantir un voyage agréable, quelle que soit la durée du trajet. Large espace pour vos bagages.
 
-- **Chauffeurs Professionnels et Élégants** : Nos chauffeurs sont des professionnels garantissant une présentation impeccable. Discrets, ponctuels et flexibles, ils sont formés pour assurer un service de haute qualité, tout en restant attentifs aux besoins de vos passagers. 
+- **Chauffeurs Professionnels et Élégants** : Nos chauffeurs sont des professionnels garantissant une présentation impeccable et une conduite irréprochable. Discrets, ponctuels et flexibles, ils sont formés pour assurer un service de qualité, tout en restant attentifs aux besoins de vos passagers. 
 
 - **Ponctualité et Fiabilité** : Nous savons que la ponctualité est essentielle pour les transferts aéroport. Nos chauffeurs veillent à être à l'heure pour vous emmener à destination, que ce soit pour un vol tôt le matin ou une arrivée tardive. Vous pouvez compter sur nous pour respecter vos horaires de vol.
 
-- **Réservation Facile et Flexible** : Réservez votre navette aéroport en ligne, par téléphone ou par email. Nous offrons une grande flexibilité pour adapter notre service à vos besoins spécifiques. Que ce soit pour un transfert simple ou un transport en groupe, nous répondrons à toutes vos demandes.
+- **Réservation Facile et Flexible** : Réservez votre navette aéroport par téléphone ou par email. Nous offrons une grande flexibilité pour adapter notre service à vos besoins spécifiques. Que ce soit pour un transfert simple ou un transport en groupe, nous répondrons à toutes vos demandes.
 
-- **Transparence des Tarifs** : Nos tarifs sont clairs et compétitifs. Vous connaîtrez le prix de votre transfert à l’avance, sans mauvaises surprises. Nous offrons également des devis sur mesure pour des groupes ou des trajets spécifiques.
+- **Transparence des Tarifs** : Nos tarifs sont clairs et précis. Vous connaîtrez le prix de votre transfert à l’avance, sans mauvaises surprises. Nous pouvons également vous établir des devis sur mesure pour des groupes ou des trajets plus spécifiques.
 
 **Nos Zones de Service**  
 Nous desservons tous les secteurs de Bretagne, avec des départs et arrivées vers les aéroports de Nantes Atlantique (NTE) et Rennes Bretagne (RNS). Que vous soyez à Rennes, Nantes, Vannes, Lorient, Brest, Saint-Malo ou ailleurs, nous nous adaptons à vos besoins et vous proposons un transport direct vers l’aéroport de votre choix.
