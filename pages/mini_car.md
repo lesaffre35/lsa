@@ -8,27 +8,10 @@ picture3: "mini_car_3.jpg"
 bandeau: "mini_car_5.png"
 ---
 
-### Transport en minicar
 
-Pour votre prochain voyage avec notre société LSA Transports, nous vous proposons la location de notre minicar Mercedes Sprinter Spica avec chauffeur.
+### **Transport sur Mesure en minicar pour Groupes en Bretagne et en France**
 
-Véhicule idéal pour vos déplacements touristiques, professionnels, événementiels ou sportifs. Disponible pour de simple transferts ou de mises à disposition à la journée et en circuit sur plusieurs jours.
 
-Nos chauffeurs de très bonne présentation, parlent anglais et ont une bonne connaissance de la région.
-
-Pour votre confort et votre sécurité, ce véhicule est équipé de 16 sièges en cuir inclinables et repose-pieds, liseuses et prises USB/220V individuelles.
-
-Autres équipements : 2 salons ou 19 places + siège guide, vidéo, Wifi, réfrigérateur
-
-Grandes soutes à bagages et suspensions pneumatiques pour un confort optimal
-
-Bien sûr ! Voici la version mise à jour de la page web, avec l’ajout des services destinés aux entreprises pour le tourisme d’affaires, les visites d'entreprises et les séminaires :
-
----
-
-### **Transport sur Mesure pour Groupes en Bretagne et en France**
-
-**À propos de nous**  
 Nous sommes spécialisés dans le transport de petits groupes jusqu'à 16 personnes, offrant des services de qualité et sur mesure avec notre minicar Mercedes Sprinter. Que ce soit pour des excursions touristiques, des séjours sur plusieurs jours, des circuits sur mesure ou des événements professionnels, nous vous garantissons un service confortable et professionnel, partout en Bretagne et dans toute la France.
 
 **Nos Services**  
@@ -45,7 +28,7 @@ Nous proposons des solutions de transport adaptées aux besoins des agences de v
 - **Accueil à l'Aéroport** : Nous vous accueillons, ainsi que vos clients, dans les principaux aéroports de la région, Rennes, Nantes, mais aussi Paris Roissy Charles de Gaulle et Orly. Que ce soit pour un transfert privé ou un service de transport pour un groupe, nous nous assurons que vos passagers arrivent en toute sécurité et confort. Nos chauffeurs les accueilleront avec professionnalisme et discrétion, prêts à les conduire à leur destination.
 
 **Pourquoi Choisir Notre Service ?**  
-- **Confort et Sécurité** : Notre minicar Mercedes Sprinter est équipé pour offrir un confort optimal tout au long du trajet, avec un espace généreux, des sièges en cuir confortables et inclinables et une climatisation pour garantir une expérience agréable, quelle que soit la saison. Nos chauffeurs professionnels veillent également à la sécurité de vos groupes.
+- **Confort et Sécurité** : Notre minicar Mercedes Sprinter est équipé pour offrir un confort optimal tout au long du trajet, avec un espace généreux, des sièges en cuir confortables et inclinables et une climatisation pour garantir une expérience agréable, quelle que soit la saison. Autres équipements : 2 salons + siège guide, vidéo, Wifi, réfrigérateur. Véhicule disposant également d'une grande soute à bagages et d'une suspension pneumatique pour un confort optimal. Nos chauffeurs professionnels veillent également à la sécurité de vos groupes.
 
 - **Chauffeurs Élégants et Discrets** : Nos chauffeurs sont soigneusement habillés en costume cravate, offrant ainsi une présentation soignée et professionnelle. Discrets, ponctuels et toujours à l’écoute de vos besoins, ils garantiront une expérience raffinée et agréable. De plus, nos chauffeurs sont également anglophones, vous assurant une communication fluide avec vos clients internationaux.
 
