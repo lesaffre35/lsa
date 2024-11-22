@@ -6,10 +6,6 @@ bandeau: rennes_aeroport2.jpg
 picture: "transport_aeroport.jpg"
 ---
 
-Voici une proposition de page web pour vos services de navettes aéroport en Bretagne, avec des informations détaillées sur les trajets vers et depuis les aéroports de Nantes et Rennes, en utilisant des minivans, minibus et minicars jusqu’à 16 passagers.
-
----
-
 ### **Navettes Aéroport en Bretagne – Transports Vers et Depuis les aéroports de Nantes, Rennes et Paris**
 
 **Voyagez en Confort et Sécurité avec Nos Navettes Aéroport en Bretagne**  
@@ -24,7 +20,7 @@ Nous proposons des transferts aéroport à la demande et sur réservation dans t
 
 - **Transfert Domicile-Aéroport** : Simplifiez vos déplacements avec un service porte-à-porte. Nous venons vous chercher directement à votre domicile, hôtel ou tout autre lieu de votre choix en Bretagne, pour vous conduire à l’aéroport de Nantes ou Rennes dans les meilleures conditions.
 
-- **Transfert Aéroport-Entreprise** : Nous proposons des services de navette aéroport pour les entreprises, pour des déplacements professionnels ou des séminaires. Vous bénéficiez d’un service ponctuel et haut de gamme, pour que vos collaborateurs ou invités arrivent en toute tranquillité à destination.
+- **Transfert Aéroport-Entreprise** : Nous proposons des services de navette aéroport pour les entreprises, pour des déplacements professionnels ou des séminaires. Vous bénéficiez d’un service ponctuel et de qualité, pour que vos collaborateurs ou invités arrivent en toute tranquillité à destination.
 
 - **Service 24h/24 et 7j/7** : Sur réservation, nos services sont disponibles à toute heure du jour ou de la nuit, en fonction de vos besoins et des horaires de vol. Nous nous adaptons à vos impératifs, même pour les départs ou arrivées tôt le matin ou tard dans la nuit.
 
