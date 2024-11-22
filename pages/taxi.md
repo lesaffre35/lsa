@@ -1,7 +1,7 @@
 ---
 title: Taxi - Transports occasionnels
 layout: article
-permalink: /taxi Montfort sur Meu Iffendic Monterfil Talensac
+permalink: /taxi 
 bandeau: vue_chauffeur.webp
 picture: "taxi_monterfil.jpg"
 ---
