@@ -9,6 +9,7 @@ picture: "taxi_monterfil.jpg"
 ## Taxi Montfort sur Meu - Iffendic - Talensac - Monterfil.
 
 
+
 Depuis 1985, **LSA Transports, Lesaffre Service Assistance**, entreprise familiale, est votre entreprise de taxis de référence dans le Pays de Montfort, offrant des services de transport sûrs, professionnels et adaptés à vos besoins. Forts de plusieurs décennies d'expérience, nous mettons à votre disposition une flotte de véhicules modernes, incluant des véhicules électriques et hybrides, ainsi qu'un personnel qualifié, prêt à répondre à toutes vos attentes. Que vous soyez un particulier, une entreprise ou un groupe, nous vous garantissons un service de qualité pour tous vos déplacements.
 
 ### **Nos services**
