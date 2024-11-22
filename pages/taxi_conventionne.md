@@ -13,6 +13,7 @@ Nos conducteurs expérimentés, bienveillants et discrets sauront vous conduire 
 Nous sommes également équipés de véhicules taxis TPMR pour accueillir les **personnes à mobilité réduite**, avec fauteuil roulant manuel ou électrique. 
 Nos chauffeurs sont spécifiquement formés pour accompagner les personnes en situation de handicap, ils sont à votre écoute pour vous assister au mieux dans vos déplacements.
 
-Notre priorité est de vous offrir un service de qualité, avec une attention particulière pour les besoins des personnes en situation de handicap, pour vous assurer un transport en toute sécurité et confort. Nous sommes à votre disposition pour répondre à toutes vos demandes de taxi au départ des communes de Montfort sur Meu, Iffendic, Monterfil, Talensac et environnantes. 
+Notre priorité est de vous offrir un service de qualité, avec une attention particulière pour les besoins des personnes en situation de handicap, pour vous assurer un transport en toute sécurité et confort. 
+Nous sommes à votre disposition pour répondre à toutes vos demandes de taxi conventionné au départ des communes de Montfort sur Meu, Iffendic, Monterfil, Talensac et environnantes. 
 Depuis 1986, Lesaffre Service Assistance Transports à votre service pour vos déplacements médicaux dans la région.
 
